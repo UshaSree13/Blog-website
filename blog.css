@@ -1,0 +1,60 @@
+@media screen and (min-width: 768px) {
+    .blog-section {
+        flex-direction: row;
+        /* Display content in a row for larger screens */
+    }
+}
+
+.bg-container {
+    height: 130vh;
+    background-size: cover;
+    padding: 20px;
+    margin: 5px;
+    text-align: center;
+}
+
+
+.h1 {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    color: #1f2933;
+    text-align: left;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.img {
+    height: 20vh;
+    width: 30vh;
+    border-radius: 10px;
+}
+
+.h {
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: bold;
+    color: #959ead;
+    text-align: left;
+    margin-top: 5px;
+}
+
+.p {
+    font-family: "Roboto";
+    font-size: 13px;
+    color: #323f4b;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.p1 {
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: bold;
+    color: #1754a1;
+}
+
+.a {
+    color: #1754a1;
+}
